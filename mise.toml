@@ -1,0 +1,6 @@
+[tools]
+uv = "latest"
+
+[tasks.setup-envs]
+tools = { uv = "latest" }
+run   = "bash setup-envs.sh"

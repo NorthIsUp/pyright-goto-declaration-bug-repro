@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "name": "pyright-jump-to-definition-repro",
+            "path": "."
+        },
+        {
+            "name": "no pyright venv config",
+            "path": "no-pyright-venv-config"
+        },
+        {
+            "name": "pyright venv config",
+            "path": "pyright-venv-config"
+        }
+    ]
+}
